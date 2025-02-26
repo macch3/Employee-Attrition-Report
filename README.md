@@ -1,8 +1,6 @@
-# Employee-Attrition-Report
+# Employee-Attrition-Report - Exploratory Data Analysis (EDA)
 
-## Employee Attrition Analysis - Exploratory Data Analysis (EDA)
-
-### 📌 Overview
+### 📌 Project Overview
 
 This project explores employee attrition using HR dataset insights. The goal is to identify key factors influencing employee turnover and provide data-driven recommendations for retention strategies.
 
