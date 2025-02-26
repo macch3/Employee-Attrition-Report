@@ -1,4 +1,4 @@
-# Employee-Attrition-Report - Exploratory Data Analysis (EDA)
+# Employee-Attrition-Report - EDA
 
 ### 📌 Project Overview
 
